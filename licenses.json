@@ -5,6 +5,10 @@
   },
   "TEST-9999": {
     "expires": "2026-12-31",
-    "hwid": "null"
+    "hwid": null
+  },
+  "NEW-2026-001": {
+    "expires": "2026-12-31",
+    "hwid": null
   }
 }
