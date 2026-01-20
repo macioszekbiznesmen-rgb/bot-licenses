@@ -1,6 +1,10 @@
 {
   "TEST-4321": {
     "expires": "2026-12-31",
-    "hwid": "null"
+    "hwid": "STARY-HWID"
+  },
+  "TEST-9999": {
+    "expires": "2026-12-31",
+    "hwid": null
   }
 }
