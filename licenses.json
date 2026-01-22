@@ -1,5 +1,22 @@
-"ABC-123": {
-  "expires": "2026-12-12",
-  "hwid": "",
-  "maxBots": 100
+{
+  "LICENCJA123": {
+    "expires": "2026-12-31",
+    "hwid": "",
+    "botLimit": 50
+  },
+  "LICENCJA456": {
+    "expires": "2026-12-31",
+    "hwid": "",
+    "botLimit": 100
+  },
+  "LICENCJA789": {
+    "expires": "2026-12-31",
+    "hwid": "",
+    "botLimit": 150
+  },
+  "LICENCJA999": {
+    "expires": "2026-12-31",
+    "hwid": "",
+    "botLimit": 200
+  }
 }
