@@ -1,22 +1,18 @@
 {
   "LICENCJA123": {
     "expires": "2026-12-31",
-    "hwid": "",
-    "botLimit": 50
+    "hwid": ""
   },
   "LICENCJA456": {
     "expires": "2026-12-31",
-    "hwid": "",
-    "botLimit": 100
+    "hwid": ""
   },
   "LICENCJA789": {
     "expires": "2026-12-31",
-    "hwid": "",
-    "botLimit": 150
+    "hwid": ""
   },
   "LICENCJA999": {
     "expires": "2026-12-31",
-    "hwid": "",
-    "botLimit": 200
+    "hwid": ""
   }
 }
